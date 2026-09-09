@@ -38,6 +38,7 @@ I’m a **jack-of-all-trades** and a **fast learner**. I may not be a master of 
 <br><br>
 
 ---
+
 ### 🛠️ Tech Stack
 
 #### Languages
@@ -67,14 +68,10 @@ I’m a **jack-of-all-trades** and a **fast learner**. I may not be a master of 
 
 #### AI Tools
 <p>
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Perplexity-20808D?style=flat-square&logo=perplexity&logoColor=white" height="50"/>
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=chatgpt,gemini,claude,cursorai,githubcopilot,deepseek" />
 </p>
 
+---
 
 ### 📊 GitHub Stats
 
