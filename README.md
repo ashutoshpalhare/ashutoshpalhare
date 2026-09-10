@@ -2,11 +2,11 @@
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ashutosh Palhare
 </h1>
 
-<h3 align="center">Versatile Developer | Cybersecurity Enthusiast 🔐</h3>
+<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast 🔐</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-26-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Python-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Security-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Lives-India-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-orange?style=flat-square" />
 </p>
@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Turning+Caffeine+into+Code+%E2%98%95;Securing+the+Digital+Realm+%F0%9F%94%90;Jack+of+All+Trades%2C+Master+of+Learning;Building+Cool+Stuff+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Turning+Caffeine+into+Code+%E2%98%95;Securing+the+Digital+Realm+%F0%9F%94%90;Building+Modern+Web+Experiences;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 ---
@@ -23,19 +23,23 @@
 
 ### 👋 About Me
 
-Hey! I'm **Ashutosh Palhare** (you can call me **AP** 😊) — a versatile developer and cybersecurity enthusiast from India.
+Hey! I'm **Ashutosh Palhare** (you can call me **AP** 😊) — a **Frontend-first Full Stack Developer** from India with 2+ years of hands-on experience building real products.
 
-I have a deep passion for code, cybersecurity, and turning ideas into reality. Ever since I was a kid, computers and mobiles have been more than just gadgets — they’ve been my passion.
+Ever since I was a kid, computers and mobiles have been more than just gadgets — they’ve been my passion. I love turning ideas into clean, modern, and functional web applications.
 
-I’m a **jack-of-all-trades** and a **fast learner**. I may not be a master of everything yet, but I’m always up for a challenge and constantly leveling up.
+My strongest ability isn’t memorizing every framework or syntax.  
+It’s this:
 
-- 🔭 Currently building my own **JARVIS-like AI assistant** using **Python**
-- 🌱 Always learning **Everything** 😁
-- 🤝 Looking to collaborate on **Open Source** projects
-- 💬 Ask me anything — if I’m alive, I’ll reply fast 😉
-- ⚡ Fun fact: *Why do programmers prefer dark mode? Because light attracts bugs.* 😎
+> **Give me a problem, requirement, or unfamiliar technology → I’ll figure out how to build and ship the solution.**
 
-<br><br>
+I work extremely well with modern AI tools (Claude, ChatGPT, Cursor, Lovable, Bolt, etc.) as an **engineering multiplier**. AI dramatically increases my speed, but I remain fully responsible for architecture, technical decisions, integration, debugging, testing, and final product quality.
+
+- 🔭 Currently building modern web products & exploring AI-assisted applications  
+- 🌱 Always improving my frontend craft and product engineering skills  
+- 🤝 Open to collaborate on interesting projects and product ideas  
+- 💬 Ask me anything — if I’m online, I’ll reply fast 😉  
+- ⚡ Fun fact: *AI does the typing. I do the thinking.*
+
 
 ---
 
