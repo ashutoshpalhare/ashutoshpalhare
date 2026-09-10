@@ -80,8 +80,8 @@ I work extremely well with modern AI tools (Claude, ChatGPT, Cursor, Lovable, Bo
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshpalhare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshpalhare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=c9d1d9" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=ashutoshpalhare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ashutoshpalhare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=c9d1d9" />
 </div>
 
 <br>
@@ -89,6 +89,7 @@ I work extremely well with modern AI tools (Claude, ChatGPT, Cursor, Lovable, Bo
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshpalhare&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" />
 </div>
+<br>
 
 ---
 
