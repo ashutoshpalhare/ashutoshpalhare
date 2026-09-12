@@ -67,7 +67,7 @@ I work extremely well with modern AI tools (Claude, ChatGPT, Cursor, Lovable, Bo
 
 #### Operating Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,kali,arch" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,apple,kali,arch" />
 </p>
 
 #### AI Tools
